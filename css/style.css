@@ -384,7 +384,6 @@ main .hero_section .img img {
 @media (max-width: 576px) {
   main .hero_section .img {
     padding-top: 32px;
-    display: none;
   }
 }
 main .hero_section .text {
